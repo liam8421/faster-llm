@@ -36,3 +36,33 @@ devenv.*
 
 # direnv
 .direnv
+
+# Model weights and checkpoints
+checkpoints/
+*.h5
+*.pkl
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.gguf
+
+# Experiment tracking
+mlruns/
+wandb/
+tensorboard/
+logs/
+
+# Test and notebook caches
+.pytest_cache/
+.coverage
+.ipynb_checkpoints/
+.dvc/
+
+# AWS credentials and infra state
+.aws/
+*.pem
+cdk.out/
+.terraform/
+*.tfstate
+*.tfstate.backup
